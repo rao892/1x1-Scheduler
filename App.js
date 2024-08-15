@@ -48,7 +48,6 @@ function App() {
                                 <option value="FMCG Sales">FMCG Sales</option>
                                 <option value="Equity Research">Equity Research</option>
                                 <option value="Digital Marketing">Digital Marketing</option>
-                                {/* Add more options as needed */}
                             </select>
                         </label>
                         <MentorList areaOfInterest={areaOfInterest} selectMentor={handleMentorSelect} />
