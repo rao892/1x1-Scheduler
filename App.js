@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Header from './components/Header';
-import MentorList from './components/MentorList';
-import BookingForm from './components/BookingForm';
-import PaymentPage from './components/PaymentPage';
+import Header from './Header';
+import MentorList from './MentorList';
+import BookingForm from './BookingForm';
+import PaymentPage from './PaymentPage';
 import './styles.css';
 
 function App() {
